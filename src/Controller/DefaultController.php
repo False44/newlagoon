@@ -11,4 +11,8 @@ class DefaultController
     public function index(){
         return "hello";
     }
+
+    public function test(){
+        return "Test for Dima";
+    }
 }
