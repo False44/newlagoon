@@ -15,4 +15,8 @@ class DefaultController
     public function test(){
         return "Test for Dima";
     }
+
+    public function dima2(){
+        return "Test for yura";
+    }
 }
