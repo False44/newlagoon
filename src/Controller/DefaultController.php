@@ -16,7 +16,7 @@ class DefaultController
         return "Test for Dima";
     }
 
-    public function dima2(){
+    public function foFix(){
         return "Test for yura";
     }
 }
