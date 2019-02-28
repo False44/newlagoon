@@ -19,4 +19,8 @@ class DefaultController
     public function foFix(){
         return "Test for yura";
     }
+
+    public function foFix(){
+        return "Test for test";
+    }
 }
